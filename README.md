@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👉 My name is Abhay Jha
+- 👉 This is Abhay Jha
 - ⚡ I know how to write Hello World Program
 
 <!--
