@@ -9,9 +9,7 @@
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayJha24&show_icons=true&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&icon_color=fff&border_radius=25&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhayJha24&show_icons=true&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&icon_color=fff&border_radius=25&hide_border=true" />
 
 <br />
 <br />
