@@ -10,7 +10,7 @@
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=AbhayJha24&show_icons=true&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&icon_color=fff&border_radius=25&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhayJha24&show_icons=true&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&icon_color=fff&border_radius=25&hide_border=true" />
 </a>
 
 <br />
@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/AbhayJha24/hill-cipher-decrypter">
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayJha24&repo=hill-cipher-decrypter&show_icons=true&theme=dark&border_radius=15&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayJha24&repo=hill-cipher-decrypter&show_icons=true&theme=dark&border_radius=15&hide_border=true" />
 </a>
 
 </div>
