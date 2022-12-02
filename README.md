@@ -26,7 +26,7 @@
 <div style="display: flex; column-gap: 2%; margin: auto; text-align: center;">
 
 <a href="https://github.com/AbhayJha24/Food-Offers-Ordering">
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayJha24&repo=Food-Offers-Ordering&show_icons=true&theme=dark&border_radius=15&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayJha24&repo=Food-Offers-Ordering&show_icons=true&theme=dark&border_radius=15&hide_border=true" />
 </a>
 
 <a href="https://github.com/AbhayJha24/hill-cipher-decrypter">
